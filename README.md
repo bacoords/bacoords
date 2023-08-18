@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a developer, writer, and instructor focused on WordPress and WordPress-adjacent technologies like React.js and Laravel. 
+
+- 💬 I blog about tech regularly at [briancoords.com](https://www.briancoords.com)
+- 📺 I make video tutorials on [YouTube](https://www.youtube.com/c/BrianCoords)
+- 💻 I contribute to [WordPress](https://profiles.wordpress/org/bacoords)
+
 <!--
 **bacoords/bacoords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
