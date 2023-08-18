@@ -6,6 +6,8 @@ I'm a developer, writer, and instructor focused on WordPress and WordPress-adjac
 - 📺 I make video tutorials on [YouTube](https://www.youtube.com/c/BrianCoords)
 - 💻 I contribute to [WordPress](https://profiles.wordpress.org/bacoords)
 
+Check out the pinned repos below for some of my latest WordPress development tutorials.
+
 <!--
 **bacoords/bacoords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
