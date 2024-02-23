@@ -2,7 +2,7 @@
 
 I'm a developer, writer, and instructor focused on WordPress and WordPress-adjacent technologies like React.js and Laravel. I'm also
 
-- 💬 Blogging about tech regularly at [briancoords.com](https://www.briancoords.com)
+- 💬 Teaching modern WordPress development at [briancoords.com](https://www.briancoords.com)
 - 📺 Making video tutorials on [YouTube](https://www.youtube.com/c/BrianCoords)
 - 💻 Contributing to [WordPress](https://profiles.wordpress.org/bacoords) and [wphelpers.dev](https://wphelpers.dev/)
 - 🎙️ Co-hosting a tech podcast/YouTube show called [viewSource](https://viewsource.fm)
