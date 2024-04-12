@@ -7,7 +7,9 @@ I'm a developer, writer, and instructor focused on WordPress and WordPress-adjac
 - 💻 Contributing to [WordPress](https://profiles.wordpress.org/bacoords) and [wphelpers.dev](https://wphelpers.dev/)
 - 🎙️ Co-hosting a tech podcast/YouTube show called [viewSource](https://viewsource.fm)
 
-#### WordPress development tutorial repo:
+#### WordPress Development Tutorials:
+
+These are demo repositories with example code and a link to a blog post and video tutorial.
 
 - [Block Bindings API with a Block Variation](https://github.com/bacoords/example-block-variation)
 - [Dynamic Block in WordPress](https://github.com/bacoords/example-dynamic-block)
