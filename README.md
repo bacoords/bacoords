@@ -7,19 +7,15 @@ I'm a developer, writer, and instructor focused on WordPress and WordPress-adjac
 - 💻 Contributing to [WordPress](https://profiles.wordpress.org/bacoords) and [wphelpers.dev](https://wphelpers.dev/)
 - 🎙️ Co-hosting a tech podcast/YouTube show called [viewSource](https://viewsource.fm)
 
-Check out the pinned repos below for some of my latest WordPress development tutorials.
+#### WordPress development tutorial repo:
 
-<!--
-**bacoords/bacoords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Block Bindings API with a Block Variation](https://github.com/bacoords/example-block-variation)
+- [Dynamic Block in WordPress](https://github.com/bacoords/example-dynamic-block)
+- [JavaScript/WP REST API-powered WordPress settings page](https://github.com/bacoords/example-wp-settings)
+- [Add Custom Fields to posts in the block editor sidebar](https://github.com/bacoords/example-post-settings-field)
+- [Add Custom Fields to Buttons in the Query Loop](https://github.com/bacoords/example-query-loop-button)
+- [Creating a block with InnerBlocks](https://github.com/bacoords/example-inner-block)
+- [Registering a Block Style in WordPress](https://github.com/bacoords/example-block-style)
+- [ACF Block Tutorial.](https://github.com/bacoords/example-acf-carousel-block)
+- [Handling images in a custom Gutenberg block](https://github.com/bacoords/example-image-block)
+- [Add Custom Responsive Settings fields to blocks](https://github.com/bacoords/example-block-settings)
