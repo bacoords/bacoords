@@ -17,6 +17,7 @@ These are demo repositories with example code and a link to a blog post and vide
 - [Add Custom Fields to Buttons in the Query Loop](https://github.com/bacoords/example-query-loop-button) (`render_block`, `registerPlugin`)
 - [Add Custom Responsive Settings fields to blocks using](https://github.com/bacoords/example-block-settings) (`@10up/block-components`)
 - [Handling images in a custom Gutenberg block](https://github.com/bacoords/example-image-block) (`@10up/block-components`)
+- [Using Core Data and Sharing Context across WordPress Blocks](https://github.com/bacoords/wcphx-2024/tree/add-context-example) (`useDispatch`, `useSelect`)
 
 #### Custom Blocks
 - [ACF Blocks Carousel Tutorial](https://github.com/bacoords/example-acf-carousel-block)
