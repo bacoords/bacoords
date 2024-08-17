@@ -7,9 +7,10 @@ I'm a developer, writer, and instructor focused on WordPress and WordPress-adjac
 - 💻 Contributing to [WordPress](https://profiles.wordpress.org/bacoords) and [wphelpers.dev](https://wphelpers.dev/)
 - 🎙️ Co-hosting a tech podcast/YouTube show called [viewSource](https://viewsource.fm)
 
-### WordPress Development Tutorials:
+### WordPress Development:
 
-These are demo repositories with example code and a link to a blog post and video tutorial.
+#### Block Theme
+- [Block Theme](https://github.com/bacoords/block-theme) is a modern block theme for WordPress developers. 
 
 #### Extending Blocks
 - [Registering a Block Style in WordPress](https://github.com/bacoords/example-block-style) (`register_block_style`)
