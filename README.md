@@ -14,6 +14,7 @@ I'm a developer, writer, and instructor focused on WordPress and WordPress-adjac
 
 #### Extending Blocks
 - [Registering a Block Style in WordPress](https://github.com/bacoords/example-block-style) (`register_block_style`)
+- [Add your own CSS or JS to any other block](https://github.com/bacoords/example-block-assets) (`wp_enqueue_block_style`, `block_type_metadata`)
 - [Block Bindings API with a Block Variation](https://github.com/bacoords/example-block-variation) (`registerBlockVariation`)
 - [Add Custom Fields to Buttons in the Query Loop](https://github.com/bacoords/example-query-loop-button) (`render_block`, `registerPlugin`)
 - [Add Custom Responsive Settings fields to blocks using](https://github.com/bacoords/example-block-settings) (`@10up/block-components`)
