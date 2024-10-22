@@ -25,6 +25,7 @@ I'm a developer, writer, and instructor focused on WordPress and WordPress-adjac
 - [ACF Blocks Carousel Tutorial](https://github.com/bacoords/example-acf-carousel-block)
 - [Dynamic Block in WordPress](https://github.com/bacoords/example-dynamic-block)
 - [Creating a block with InnerBlocks](https://github.com/bacoords/example-inner-block) (`<InnerBlocks />`)
+- [Create an example block with OpenAI integration](https://github.com/bacoords/example-ai-block)
 
 #### Extending Gutenberg
 - [Add Custom Fields to posts in the block editor sidebar](https://github.com/bacoords/example-post-settings-field) (`PluginDocumentSettingPanel`)
